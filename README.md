@@ -1,3 +1,3 @@
-#Kokoa clone 2022 cho-azzi
+# Kokoa clone 2022 cho-azzi
 
-CSS got so much better!
+hashtag 다음에는 띄울 것
